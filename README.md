@@ -1,7 +1,7 @@
 ¡Hola! 👋 Bienvenido a mi perfil!!
 
 Sobre mí 👇
-- 🦾Actualmente me encuentro desarrollando mi sitio web y portfolio
+- 🦾Actualmente me encuentro enfocado en el Departamento de Posgrados de la Universidad Nacional de San Martín
 - ✔ Terminé un proyecto grupal del desarrollo de un E-Commerce.
 - ✔ Terminé mi proyecto individual sobre Pokemón
 - ⚙ Me gusta continuamente aprender para ampliar mi stack de herramientas.

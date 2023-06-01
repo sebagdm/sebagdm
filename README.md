@@ -8,7 +8,7 @@ Sobre mí 👇
 - 📸 Una de mis pasiones es la fotografía
 - 💬 Pregúntame sobre JavaScript, React, PostgreSQL, MongoDB y más...
 - 🖇Mi perfil de https://www.linkedin.com/in/juancontini/
-- 📫 Pueder contactarme en continisebastian@gmail.com
+- 📫 Puedes contactarme en continisebastian@gmail.com
 
 
 

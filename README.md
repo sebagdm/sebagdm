@@ -1,4 +1,4 @@
-¡Hola! 👋 Bienvenido a mi perfil!!
+¡Hola soy Juan Sebastián 👋 !
 
 Sobre mí 👇
 - 🦾Actualmente me encuentro enfocado en el Departamento de Posgrados de la Universidad Nacional de San Martín
@@ -10,5 +10,11 @@ Sobre mí 👇
 - 🖇Mi perfil de https://www.linkedin.com/in/juancontini/
 - 📫 Puedes contactarme en continisebastian@gmail.com
 
+### ⚙️ &nbsp;GitHub Analytics
 
-
+<p align="center">
+<a href="https://github.com/sebagdm">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>

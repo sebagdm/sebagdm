@@ -1,5 +1,6 @@
 ¡Hola soy Juan Sebastián 👋 !
 
+
 Sobre mí 👇
 - 🦾Actualmente me encuentro enfocado en el Departamento de Posgrados de la Universidad Nacional de San Martín
 - ✔ Terminé un proyecto grupal del desarrollo de un E-Commerce.
